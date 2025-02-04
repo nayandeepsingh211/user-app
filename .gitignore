@@ -1,0 +1,9 @@
+# Dependency directories
+/node_modules/
+/build/
+/public/static/
+
+# IDE and system files
+/.vscode/
+/.idea/
+/.DS_Store
